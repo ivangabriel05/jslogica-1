@@ -1,5 +1,5 @@
-const prompt = require('prompt-sync')()
-
+const Promp = require("prompt-sync")()
+var num1, num2, resultado
 var numero = parseInt(prompt('Informe um numero: '))
 
 if (numero % 2 === 1) {

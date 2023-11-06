@@ -1,3 +1,6 @@
+const Promp = require("prompt-sync")()
+
+const prompt = require(PromptSync)
 var cont = 0
 
 while (cont < 10) { // ENQUANTO
